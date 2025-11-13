@@ -47,3 +47,8 @@ During inference:
 ### Train the Model
 ```bash
 python main.py --mode train
+```
+### Test the Model
+```bash
+python main.py --mode predict
+
